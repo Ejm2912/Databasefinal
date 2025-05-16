@@ -1,8 +1,8 @@
 Project: Customer Service Dashboard (Java + PostgreSQL)
 
 This is a 2-layer system:
--DBC.java handles the database connection.
--while other classes manage logic and user input separately.
+- DBC.java handles the database connection.
+- while other classes manage logic and user input separately.
 
 This project is a simple backend system for tracking customer service activity. It allows users to:
 
